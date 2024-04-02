@@ -10,3 +10,8 @@ h3{
     font-size: xx-large;
     background-color: rgb(255, 153, 204);
 }
+
+.image-container {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+}
