@@ -19,4 +19,11 @@ h3{
 .double-digit-container {
     display: flexbox;
     flex-wrap: wrap;
+    
+}
+
+@media (max-width:480px) {
+    p {
+        font-size: x-large;
+    }
 }
