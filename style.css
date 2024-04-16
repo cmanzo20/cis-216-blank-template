@@ -17,8 +17,9 @@ h3{
 }
 
 .double-digit-container {
-    display: flexbox;
+    display: flex;
     flex-wrap: wrap;
+    justify-content: space-evenly;
     
 }
 
